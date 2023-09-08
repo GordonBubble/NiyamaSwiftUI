@@ -1,0 +1,5 @@
+strings:
+  inputs: ../Project1/Helpers/Localazible/en.lproj
+  outputs:
+    templateName: structured-swift5
+    output: ../Project1/Helpers/Strings.swift
